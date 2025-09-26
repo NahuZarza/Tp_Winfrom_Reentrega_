@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace Tp
 {
+    // prueba de archivo
     internal static class Program
     {
         /// <summary>
